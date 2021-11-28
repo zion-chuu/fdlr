@@ -1,7 +1,7 @@
 Download file in Golang
 ==================
 
-[![Build Status](https://github.com/Imputes/fdlr/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/Imputes/fdlr/actions)
+[![Build Status](https://github.com/zion-chuu/fdlr/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/zion-chuu/fdlr/actions)
 
 ## Featues:
 * support HTTP and HTTPS
