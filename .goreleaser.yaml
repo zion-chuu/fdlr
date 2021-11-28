@@ -1,0 +1,14 @@
+env:
+  - CGO_ENABLED=0
+
+builds:
+  - main: ./cmd/fdlr
+    binary: fdlr
+    goos:
+      - darwin
+      - windows
+    goarch:
+      - amd64
+    flags:
+      -trimpath
+    ldflags: -s -w -X main.version={{.Version}} -X main.commit={{.Commit}} -X main.date={{.CommitDate}}

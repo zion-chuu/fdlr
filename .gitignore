@@ -1,0 +1,5 @@
+/bin
+/dist
+*.out
+/.vscode
+.config
