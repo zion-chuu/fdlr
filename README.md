@@ -3,6 +3,8 @@ Download file in Golang
 
 [![Build Status](https://github.com/zion-chuu/fdlr/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/zion-chuu/fdlr/actions)
 
+This MapReduce mindset is only advantageous when the volume of data is relatively large.
+
 ## Featues:
 * support HTTP and HTTPS
 * you can set the number of parallel to download
