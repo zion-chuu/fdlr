@@ -3,7 +3,7 @@
 
 [![Build Status](https://github.com/zion-chuu/fdlr/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/zion-chuu/fdlr/actions)
 
-利用 MapReduce 的思路, 将大块数据拆分成小块数据处理, 然后最后再合并, 输出结果, 所以对于很小的下载数据来说, 效果并不好
+利用 MapReduce 的思路, 将大块数据拆分成小块数据处理, 然后最后再合并, 输出结果, 所以对于很小的下载数据来说, 效果并不好 
 下载功能利用 HTTP 头的 Range 功能
 
 ## 功能:
